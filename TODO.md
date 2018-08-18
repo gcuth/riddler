@@ -1,7 +1,7 @@
 # Puzzles To Do
 
 - [x] [2015-12-11 - **Dropped Smartphone**](https://fivethirtyeight.com/features/whats-the-best-way-to-drop-a-smartphone/)
-- [ ] [2015-12-18 -- **Three Geysers**](https://fivethirtyeight.com/features/which-geyser-gushes-first/)
+- [x] [2015-12-18 -- **Three Geysers**](https://fivethirtyeight.com/features/which-geyser-gushes-first/)
 - [ ] [2015-12-22 -- **Smartphone Dinner**](https://fivethirtyeight.com/features/how-long-will-your-smartphone-distract-you-from-family-dinner/)
 - [ ] [2015-12-29 -- **Reusable Calendar**](https://fivethirtyeight.com/features/riddler-how-long-before-you-can-use-your-2015-calendar-again-riddler/)
 - [ ] [2016-01-08 -- **Car Salesman**](https://fivethirtyeight.com/features/how-badly-can-a-car-salesman-swindle-you/)
