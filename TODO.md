@@ -230,5 +230,5 @@
 - [ ] [2018-08-03 -- **Heads Game**](https://fivethirtyeight.com/features/the-eternal-question-how-much-do-these-apricots-weigh/)
 - [ ] [2018-08-10 -- **Paradoxical Navigation**](https://fivethirtyeight.com/features/where-on-earth-is-the-riddler/)
 - [ ] [2018-08-10 -- **Random Rugs**](https://fivethirtyeight.com/features/where-on-earth-is-the-riddler/)
-- [ ] [2018-08-17 -- **Guessing Game**](https://fivethirtyeight.com/features/step-1-game-theory-step-2-step-3-profit/)
+- [x] [2018-08-17 -- **Guessing Game**](https://fivethirtyeight.com/features/step-1-game-theory-step-2-step-3-profit/)
 - [ ] [2018-08-17 -- **Game Theory**](https://fivethirtyeight.com/features/step-1-game-theory-step-2-step-3-profit/)
