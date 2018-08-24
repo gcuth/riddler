@@ -232,3 +232,5 @@
 - [ ] [2018-08-10 -- **Random Rugs**](https://fivethirtyeight.com/features/where-on-earth-is-the-riddler/)
 - [x] [2018-08-17 -- **Guessing Game**](https://fivethirtyeight.com/features/step-1-game-theory-step-2-step-3-profit/)
 - [ ] [2018-08-17 -- **Game Theory**](https://fivethirtyeight.com/features/step-1-game-theory-step-2-step-3-profit/)
+- [ ] [2018-08-24 -- **Hike Planning**](https://fivethirtyeight.com/features/how-many-hoops-will-kids-jump-through-to-play-rock-paper-scissors/)
+- [ ] [2018-04-24 -- **RPS Hop**](https://fivethirtyeight.com/features/how-many-hoops-will-kids-jump-through-to-play-rock-paper-scissors/)
